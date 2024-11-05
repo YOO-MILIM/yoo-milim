@@ -19,8 +19,6 @@ Greetings, mere mortals! I’m **Milim Nava**, the **Demon Lord of Network Engin
 
 ## 🔥 My Skills & Tech Arsenal
 
-<img align="right" src="https://media1.tenor.com/m/v0wwV43mfvkAAAAd/milim-nava-anime.gif" width="300px" alt="Milim gif right-aligned" />
-
 - **Networking:** VyOS, MikroTik, VPNs, Network Security, Firewalls
 - **Server Management:** Linux, Virtualization (Proxmox)
 - **Automation & Monitoring:** Ansible, Grafana
